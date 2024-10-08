@@ -1,6 +1,6 @@
 gradio
 librosa==0.10.0
-numpy
+numpy==1.24.0
 praat-parselmouth
 pyworld==0.3.4
 Requests==2.31.0
